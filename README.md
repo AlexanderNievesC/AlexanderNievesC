@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in projects related with ruby on rails and react, I want to be an expert using these tools. 
 - 📫 How to reach me , it's simple just send an email to paulalexander.nieves@gmail.com saying Hi. I will be glad to recieve messages from you :)
  
- Take a look to my personal page 👀👀👀👀👀👀 https://personal-page-alexander-nieves.netlify.app/  
+ TAKE A LOOK TO MY PERSONAL WEB PAGE !!!!!!!!!!!!!!!!  👀👀👀👀👀👀👀👀👀👀👀👀 https://personal-page-alexander-nieves.netlify.app/  
  
 <!---
 paulnc27/paulnc27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
