@@ -1,3 +1,4 @@
+<img align="right" alt="code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itprotoday.com%2Fprogramming-languages%2Fmost-popular-programming-languages-what-s-hot-what-s-not-2022&psig=AOvVaw15JfKQ0f41IOi6fiA8_KdX&ust=1674941613391000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCTn_HZ6PwCFQAAAAAdAAAAABAJ"></img>
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
