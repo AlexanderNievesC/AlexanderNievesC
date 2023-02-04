@@ -6,9 +6,9 @@
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
 <div>🌱 I am currently looking for a job in the tech industry</div>
-<div>👀 I am learning <bold>Javascript, React and Ruby on Rails</bold></div>
-<div>💞️ I’m looking to collaborate in projects related with ROR and REACT</div>
-<div>📫 How to reach me paulalexander.nieves@gmail.com </div>
+<div>👀 My primary stack is <bold>Javascript, React and Ruby on Rails</bold></div>
+<div>💞️ I’m looking to collaborate in projects related with ROR and React</div>
+<div>📫 You can reach me at paulalexander.nieves@gmail.com </div>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
