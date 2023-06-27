@@ -2,12 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandernievesc&label=Profile%20views&color=0e75b6&style=flat" alt="alexandernievesc" /> </p>
 
-<h1 align="center">Hi 👋, I'm Alex Nieves</h1>
+<h1 align="center">Hi 👋, I'm Alexander Nieves</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
-<div>🌱 I am currently looking for a job in the tech industry</div>
-<div>👀 My primary stack is <bold>Javascript, React and Ruby on Rails</bold></div>
-<div>💞️ I’m looking to collaborate in projects related with ROR and React</div>
+<div>🌱 I am currently working as an Application Analyst, looking for chance as a junior developer</div>
+<div>👀 Frameworks <bold>Javascript, React and Ruby on Rails</bold></div>
 <div>📫 You can reach me at paulalexander.nieves@gmail.com </div>
 
 
