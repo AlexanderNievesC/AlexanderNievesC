@@ -8,7 +8,9 @@
 <div>🌱 I am currently working as an Application Analyst, looking for a chance as a junior developer</div>
 <br>
 <div>👀 Knowledge in  <bold> Java, HTML+CSS +Javascript, React, Ruby on Rails, PSQL , SQL (Business Intelligence), R</bold></div>
+<br>
 <div>❤️ I also love Remote Sensing,  geographical maps  and Autocad </div>
+<br>
 <div>📫 You can reach me at paulalexander.nieves@gmail.com </div>
 
 
