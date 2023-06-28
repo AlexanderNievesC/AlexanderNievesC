@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandernievesc&label=Profile%20views&color=0e75b6&style=flat" alt="alexandernievesc" /> </p>
 
 <h1 align="center">Hi 👋, I'm Alexander Nieves</h1>
-<h3 align="center">A passionate full stack developer, data arcuitect and mining engineer from Peru</h3>
+<h3 align="center">A passionate full stack developer, data architect and mining engineer from Peru</h3>
 
 <div>🌱 I am currently working as an Application Analyst, looking for a chance as a junior developer</div>
 <br>
