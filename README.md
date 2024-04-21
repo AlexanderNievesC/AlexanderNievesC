@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandernievesc&label=Profile%20views&color=0e75b6&style=flat" alt="alexandernievesc" /> </p>
 
 <h1 align="center">Hi 👋, I'm Alexander Nieves</h1>
-<h3 align="center">A passionate full stack developer, data architect and mining engineer from Peru</h3>
+<h3 align="center">A passionate full stack developer from Peru</h3>
 
-<div>🌱 I am currently working as an Application Analyst, looking for a chance as a junior developer</div>
+<div>🌱 Currently looking for a chance as a developer</div>
 <br>
-<div>👀 Knowledge in  <bold> Java, HTML+CSS +Javascript, React, Ruby on Rails, PSQL , SQL (Business Intelligence), R</bold></div>
+<div>👀 Knowledge in  <bold> Java, HTML+CSS +Javascript (React), Ruby on Rails, Database Administration (PSQL, SQL)</bold></div>
 <br>
-<div>❤️ I also love Remote Sensing,  geographical maps  and Autocad </div>
+<div>❤️ Previous experience as a mining engineeer </div>
 <br>
 <div>📫 You can reach me at paulalexander.nieves@gmail.com </div>
 
