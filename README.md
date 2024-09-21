@@ -2,16 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandernievesc&label=Profile%20views&color=0e75b6&style=flat" alt="alexandernievesc" /> </p>
 
-<h1 align="center">Hi 👋, I'm Alexander Nieves</h1>
+<h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
 <div>🌱 Currently looking for a chance as a developer</div>
 <br>
 <div>👀 Knowledge in  <bold> Java, HTML+CSS +Javascript (React), Ruby on Rails, Database Administration (PSQL, SQL)</bold></div>
 <br>
-<div>❤️ Previous experience as a mining engineeer </div>
+<div>❤️ Previous experience as analyst </div>
 <br>
-<div>📫 You can reach me at paulalexander.nieves@gmail.com </div>
+<div>📫 You can reach me at paulalexander.nieves@gmail.com, please feel you free to contact me </div>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
